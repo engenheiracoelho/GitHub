@@ -104,7 +104,7 @@ O programa [2020 GitHub Archive](https://archiveprogram.github.com/arctic-vault/
  
 ### Referências
 
-* (GitHub-Achievements)[https://github.com/drknzz/GitHub-Achievements/blob/main/README.md]
-* (Github-profile-achievements)[https://github.com/Schweinepriester/github-profile-achievements#readme]
+* [GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements/blob/main/README.md)
+* [Github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements#readme)
 
 Você não quer ter Medalhas? [Remova com esse tutorial](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements) is how to disable them. [Direct link to the setting for your convenience](https://github.com/settings/profile#profile-settings-heading).
