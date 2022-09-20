@@ -21,5 +21,5 @@ O objetivo desse repositório é possuir alguns arquivos com dicas para melhorar
 
 ### Conteúdos nas redes:
 
-* [Cheat Cheet GIT](https://www.instagram.com/p/Cd_c7oJJ5N1/)
+* [Cheat Sheet GIT](https://www.instagram.com/p/Cd_c7oJJ5N1/)
 * [GIT em imagens](https://www.instagram.com/p/CfL7SGcutpQ/)
